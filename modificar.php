@@ -37,10 +37,7 @@
             
            // $mostrar= mysqli_fetch_object($result); // genera un solo objeto
 
-           if(!$mascotas){
-                echo " id invalido";
-                die;
-        }
+           
          
 
     ?>
